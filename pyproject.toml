@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "api-notas"
-version = "1.0.0"
+version = "1.1.0"
 description = "API REST de notas personales con FastAPI, SQLAlchemy 2.0 y SQLite"
 readme = "README.md"
 requires-python = ">=3.10"
