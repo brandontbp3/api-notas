@@ -1,0 +1,42 @@
+# Byte-code y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Distribución y empaquetado
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Herramientas de desarrollo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Datos locales del proyecto
+notas.db
+*.db
+*.sqlite3
+
+# Variables de entorno locales
+.env
+
+# Editores y sistema operativo
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db

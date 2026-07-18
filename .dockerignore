@@ -1,0 +1,30 @@
+# Control de versiones
+.git
+.gitignore
+.github
+
+# Entornos virtuales
+.venv
+venv
+
+# Cachés de Python y herramientas
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.mypy_cache
+
+# Distribución
+build
+dist
+*.egg-info
+
+# Tests y datos locales
+tests
+*.db
+*.sqlite3
+.env
+
+# Docker
+Dockerfile
+.dockerignore
